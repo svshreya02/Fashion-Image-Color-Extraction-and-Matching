@@ -1,5 +1,6 @@
 # Fashion Image Color Extraction and Matching
 This notebook utilizes image processing techniques, K-means clustering for color extraction, and matches the extracted colors to the closest color names and HEX values based on a provided RGB shades dataset.
+The image dataset used can be found at [Fashion Product Images (Small)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small) on Kaggle. 
 
 
 ![output](output_sample.png)
