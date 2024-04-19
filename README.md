@@ -1,5 +1,6 @@
 # Fashion Image Color Extraction and Matching
 This Python script utilizes image processing techniques, K-means clustering for color extraction, and matches the extracted colors to the closest color names and HEX values based on a provided RGB shades dataset.
+![output](output_sample.png)
 
 ## Prerequisites
 Ensure you have the following libraries installed:
