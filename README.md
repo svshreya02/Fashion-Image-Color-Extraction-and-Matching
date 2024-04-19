@@ -38,5 +38,5 @@ The script uses K-means clustering for color extraction and relies on a provided
 Libraries such as pandas, torch, torchvision, scikit-learn, tqdm, opencv-python, and matplotlib are used for data manipulation, deep learning, image processing, and visualization.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
